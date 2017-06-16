@@ -1,0 +1,111 @@
+body {
+	background-color: white;
+}
+
+ul {
+	display: block;
+	list-style-type: none; 
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden; 
+	background-color: #5F5F5F;
+	
+}
+
+li {
+	float: left;
+
+}
+
+li a{
+
+	width:200px;
+	height:40px;
+	display: block;
+	text-align: center;
+	list-style: none;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-decoration: none;
+	
+}
+li a:hover {
+	background-color: #A9A9A9; 
+	text-decoration: none;
+	color: white;
+	
+	
+}
+
+
+
+a {
+	color: white;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+h4 {
+	position: relative;
+	left: 10px;
+	top: 100px;
+}
+
+h1 {
+	position: relative;
+	left: 10px;
+}
+
+h3 {
+	position: relative;
+	font-family: sans-serif;
+	left: 10px;
+	top: 80px;
+	color: red;
+}
+
+#logga {
+	position: relative;
+	left: 950px;
+	bottom: 127px;
+	width: 300px;
+}
+
+#bild {
+	position: relative;
+	width: 500px;
+	left: 600px;
+}
+
+#leftbutton {
+	width:200px;
+	height:40px;
+	background-color: darkgray;
+	display: inline-block;
+	text-align: center;
+	list-style: none;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#video {
+	position: relative;
+	left: 700px;
+}
+
+#exempel {
+	position: relative;
+	left: 700px; 
+	font-size: 20px; 
+	color: blue;
+}
+
+#contact {
+	top: 300px;
+	color: blue;
+}
+
+#contact2 {
+	top: 310px;
+	color: blue;
+}
